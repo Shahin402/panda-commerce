@@ -10,7 +10,7 @@
 .btn{
     background-image: linear-gradient(#ff589b,#ff166f);
     color: white;
-    cursor: pointer;
+    
 }
 
 .price{
@@ -44,3 +44,25 @@
 .catagory img{
     width: 100px;
 }
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+    border-radius: 5%;
+}
+
+#subscribe{
+    height: 300px;
+}
+
+
+footer{
+    text-align: center;
+}
+
