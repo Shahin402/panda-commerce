@@ -1,1 +1,1 @@
-# panda-commerce 2.0
+# Panda-Commerce 2.0

@@ -7,3 +7,39 @@
     border-radius: 10px;
     padding: 20px 40px;
 }
+
+.price{
+    color: #ff007f;
+}
+
+.buy-now{
+    background-image: linear-gradient(to bottom,#ff56aa,#ff007f);
+    border: none;
+    border-radius: 5px;
+    padding: 7px 13px;
+    color: white;
+}
+
+.cat1{
+    background-color: #06648C;
+}
+
+.cat2{
+    background-color: #38a3a5;
+}
+
+.cat3{
+    background-color: #61b15a;
+}
+
+.cat1,.cat2,.cat3{
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+    margin-top: 3%;
+
+}
+
+.catagory img{
+      width: 100px;
+}
